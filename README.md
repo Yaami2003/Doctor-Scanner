@@ -12,8 +12,8 @@ With a clean Flask-powered web interface, it’s easy to use for both students a
 
 ## 🚀 Demo Screenshot
 
-> ![Doctor Scanner UI](static/logo.png)
-> *(Replace this with an actual screenshot of your UI if available)*
+> ![Doctor Scanner UI](https://github.com/Yaami2003/Doctor-Scanner/blob/77396783066437f45737466f67dc03e08c6a7f50/docscanf.png)
+> ![Doctor Scanner result]
 
 ---
 
