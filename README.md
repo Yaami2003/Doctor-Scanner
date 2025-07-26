@@ -13,7 +13,7 @@ With a clean Flask-powered web interface, it’s easy to use for both students a
 ## 🚀 Demo Screenshot
 
 > ![Doctor Scanner UI](https://github.com/Yaami2003/Doctor-Scanner/blob/77396783066437f45737466f67dc03e08c6a7f50/docscanf.png)
-> ![Doctor Scanner result]
+> ![Doctor Scanner result](https://github.com/Yaami2003/Doctor-Scanner/blob/dd32b76066e84a6c44c1828c312de5e8ade74966/docscan.png)
 
 ---
 
