@@ -69,11 +69,11 @@ pip install -r requirements.txt
 
 This will install:
 
-Flask
+- Flask
 
-Requests
+- Requests
 
-BeautifulSoup4
+- BeautifulSoup4
 
 
 ###🔹 3. Start the Flask Web App
@@ -84,60 +84,49 @@ Then open your browser and go to:
 
 http://127.0.0.1:5000
 Enter a target website URL in the input field and click Start Scan ✅
+---
 
-###🌐 Safe Test URLs (For Practice)
+## 🌐 Safe Test URLs (For Practice)
 
+Use only **legally approved and intentionally vulnerable** testing sites:
 
-Use only legally approved and intentionally vulnerable testing sites:
+| Test URL | Vulnerabilities |
+|----------------------------------|------------------------|
+| http://testphp.vulnweb.com | ✅ XSS, ✅ SQLi |
+| http://zero.webappsecurity.com | ✅ XSS |
+| http://demo.testfire.net | ✅ Auth, ✅ SQLi |
 
-
-Test URL
-
-Vulnerabilities
-
-http://testphp.vulnweb.com
-
-✅ XSS, ✅ SQLi
-
-http://zero.webappsecurity.com
-
-✅ XSS
-
-http://demo.testfire.net
-
-✅ Auth, ✅ SQLi
-
-###⚠️ IMPORTANT:
-
-Doctor Scanner is intended only for ethical testing and learning.
-
+⚠️ **IMPORTANT:**
+Doctor Scanner is intended **only for ethical testing and learning.**
 Never scan websites without permission.
 
-💡 Future Improvements
-🔐 Add login bypass and CSRF testing
+---
 
-📝 Export results to PDF or CSV
+## 💡 Future Improvements
 
-🎨 Dark mode / theme toggle
+- 🔐 Add login bypass and CSRF testing
+- 📝 Export results to PDF or CSV
+- 🎨 Dark mode / theme toggle
+- 🛡️ Add more payload categories
+- 📤 Deploy online using Render or PythonAnywhere
 
-🛡️ Add more payload categories
+---
 
-📤 Deploy online using Render or PythonAnywhere
+## 👩‍💻 Author
 
-👩‍💻 Author
-
-
-Yaami Raj
-
+**Yaami Raj**
 💻 Student | Cybersecurity Enthusiast | Python Developer
-
 📍 Kerala, India
+🌐 [GitHub Profile](https://github.com/yaami2003)
 
-🌐 GitHub Profile
+---
 
-🧾 License
-
+## 🧾 License
 
 This project is intended for educational and ethical testing purposes only.
-
 Use it responsibly.
+
+
+
+
+
