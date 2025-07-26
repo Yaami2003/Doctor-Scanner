@@ -76,7 +76,7 @@ This will install:
 - BeautifulSoup4
 
 
-###🔹 3. Start the Flask Web App
+### 🔹 3. Start the Flask Web App
 
 python app.py
 
